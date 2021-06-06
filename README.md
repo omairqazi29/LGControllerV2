@@ -3,3 +3,4 @@ A revolutionary controller for Liquid Galaxy which uses ultrasonic sensors, HTTP
 
 ## Working
 Refer to the Project doc (WIRELESS LG CONTROLLER.pdf)
+Video: https://1drv.ms/v/s!AsvVMX2LdYhbgZInqrpvxXc5NGBjMg?e=VLt21s
